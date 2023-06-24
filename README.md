@@ -21,7 +21,7 @@ Showcase your developer skills in 2 minutes!
 
 ## Screenshot 📷
 
-![SkillExhibit Screenshot](https://github.com/Utkarssh11/Skill-Exhibit/blob/main/Screenshot%20(385).png?raw=true)
+![SkillExhibit Screenshot](https://github.com/Utkarssh11/Skill-Exhibit/blob/main/SS.jpg?raw=true)
 
 ---
 
